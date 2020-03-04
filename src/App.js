@@ -2,12 +2,12 @@ import React from 'react';
 import './App.scss';
 
 // Page import
-import Main from './pages/Main'
+import LandingPage from './pages/LandingPage/LandingPage'
 
 function App() {
   return (
     <div className="App">
-        <Main/>
+        <LandingPage/>
     </div>
   );
 }
