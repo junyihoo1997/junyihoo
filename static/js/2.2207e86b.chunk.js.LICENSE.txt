@@ -4,6 +4,12 @@ object-assign
 @license MIT
 */
 
+/*!
+ * baffle 0.3.6 - A tiny javascript library for obfuscating and revealing text in DOM elements.
+ * Copyright (c) 2016 Cam Wiegert <cam@camwiegert.com> - https://camwiegert.github.io/baffle
+ * License: MIT
+ */
+
 /** @license React v0.19.0
  * scheduler.production.min.js
  *
