@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/junyihoo/static/css/main.8dce9cbc.chunk.css",
-    "main.js": "/junyihoo/static/js/main.2da7e127.chunk.js",
-    "main.js.map": "/junyihoo/static/js/main.2da7e127.chunk.js.map",
+    "main.css": "/junyihoo/static/css/main.6dd82ce7.chunk.css",
+    "main.js": "/junyihoo/static/js/main.fcfea59b.chunk.js",
+    "main.js.map": "/junyihoo/static/js/main.fcfea59b.chunk.js.map",
     "runtime-main.js": "/junyihoo/static/js/runtime-main.5e8a1920.js",
     "runtime-main.js.map": "/junyihoo/static/js/runtime-main.5e8a1920.js.map",
-    "static/js/2.2207e86b.chunk.js": "/junyihoo/static/js/2.2207e86b.chunk.js",
-    "static/js/2.2207e86b.chunk.js.map": "/junyihoo/static/js/2.2207e86b.chunk.js.map",
+    "static/js/2.f010d73b.chunk.js": "/junyihoo/static/js/2.f010d73b.chunk.js",
+    "static/js/2.f010d73b.chunk.js.map": "/junyihoo/static/js/2.f010d73b.chunk.js.map",
     "index.html": "/junyihoo/index.html",
-    "precache-manifest.d071d7458c8b91f2fd4aa47c4f07e452.js": "/junyihoo/precache-manifest.d071d7458c8b91f2fd4aa47c4f07e452.js",
+    "precache-manifest.9ff1d03817db115473a75ce0693ad1c2.js": "/junyihoo/precache-manifest.9ff1d03817db115473a75ce0693ad1c2.js",
     "service-worker.js": "/junyihoo/service-worker.js",
-    "static/css/main.8dce9cbc.chunk.css.map": "/junyihoo/static/css/main.8dce9cbc.chunk.css.map",
-    "static/js/2.2207e86b.chunk.js.LICENSE.txt": "/junyihoo/static/js/2.2207e86b.chunk.js.LICENSE.txt"
+    "static/css/main.6dd82ce7.chunk.css.map": "/junyihoo/static/css/main.6dd82ce7.chunk.css.map",
+    "static/js/2.f010d73b.chunk.js.LICENSE.txt": "/junyihoo/static/js/2.f010d73b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5e8a1920.js",
-    "static/js/2.2207e86b.chunk.js",
-    "static/css/main.8dce9cbc.chunk.css",
-    "static/js/main.2da7e127.chunk.js"
+    "static/js/2.f010d73b.chunk.js",
+    "static/css/main.6dd82ce7.chunk.css",
+    "static/js/main.fcfea59b.chunk.js"
   ]
 }
