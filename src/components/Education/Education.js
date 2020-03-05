@@ -1,9 +1,12 @@
 import React from 'react';
 
+// Styling import
+import './Education.scss'
+
 function Education(props) {
     return (
-        <div>
-            
+        <div className='education-body container'>
+            Education
         </div>
     );
 }

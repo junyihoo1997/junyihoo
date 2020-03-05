@@ -1,6 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import Baffle from "baffle-react";
 
+// Component import
+import Navbar from '../../components/Navbar/Navbar'
+
+// Styling import
+import './Main.scss'
+
 function Main(props) {
     const [obfuscate, setObfuscate] = useState(false);
     const [update, setUpdate] = useState(false);
@@ -12,18 +18,19 @@ function Main(props) {
             setUpdate(false)
             setTime()
         }, 3000);
-        function setTime(){
+        function setTime() {
             setObfuscate(true)
             setUpdate(true)
         }
-    
+
     });
 
-    
+
 
     return (
         <div className="container main-body">
-            <Baffle
+            <Navbar />
+            {/* <Baffle
                 speed={50}
                 characters="!@#$%^&*"
                 exclude={[" ", "!"]}
@@ -33,7 +40,7 @@ function Main(props) {
                 revealDelay={0}
             >
                 {title[Math.floor(Math.random() * title.length)]}
-            </Baffle>
+            </Baffle> */}
             Main
         </div>
     );
