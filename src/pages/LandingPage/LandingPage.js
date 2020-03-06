@@ -8,11 +8,13 @@ import Experiences from '../../components/Experiences/Experiences'
 import Education from '../../components/Education/Education'
 import Contact from '../../components/Contact/Contact'
 import Footer from '../../components/Footer/Footer'
+import Navbar from '../../components/Navbar/Navbar';
 
 class LandingPage extends Component {
     render() {
         return (
             <div className="landing-body">
+                <Navbar/>
                 <Main />
                 <About />
                 <Skills />

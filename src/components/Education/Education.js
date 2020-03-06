@@ -5,7 +5,7 @@ import './Education.scss'
 
 function Education(props) {
     return (
-        <div className='education-body container'>
+        <div className='education-body container' id='education-section'>
             Education
         </div>
     );

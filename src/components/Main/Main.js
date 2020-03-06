@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Baffle from "baffle-react";
 
-// Component import
-import Navbar from '../../components/Navbar/Navbar'
 
 // Styling import
 import './Main.scss'
@@ -28,8 +26,7 @@ function Main(props) {
 
 
     return (
-        <div className="container main-body">
-            <Navbar />
+        <div className='container main-body' id='main-section'>
             {/* <Baffle
                 speed={50}
                 characters="!@#$%^&*"
@@ -43,6 +40,7 @@ function Main(props) {
             </Baffle> */}
             Main
         </div>
+
     );
 }
 
