@@ -5,7 +5,7 @@ import './Contact.scss'
 
 function Contact(props) {
     return (
-        <div className="container contact-body" id='contact-section'>
+        <div className="contact-body" id='contact-section'>
             Contact
         </div>
     );

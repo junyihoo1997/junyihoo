@@ -26,19 +26,28 @@ function Main(props) {
 
 
     return (
-        <div className='container main-body' id='main-section'>
-            {/* <Baffle
-                speed={50}
-                characters="!@#$%^&*"
-                exclude={[" ", "!"]}
-                obfuscate={obfuscate}
-                update={update}
-                revealDuration={1000}
-                revealDelay={0}
-            >
-                {title[Math.floor(Math.random() * title.length)]}
-            </Baffle> */}
-            Main
+        <div className='main-body' id='main-section'>
+            <div className="main-opacity">
+                <div className="main-content ">
+                    <h1>
+                        Hi, I'm Hoo Jun Yi
+                        <br />
+                        I'm a software engineer
+                        {/* I am a <Baffle
+                            speed={50}
+                            characters="!@#$%^&*"
+                            exclude={[" ", "!"]}
+                            obfuscate={obfuscate}
+                            update={update}
+                            revealDuration={1000}
+                            revealDelay={3}
+                        >
+                            {title[Math.floor(Math.random() * title.length)]}
+                        </Baffle> */}
+                    </h1>
+                </div>
+            </div>
+
         </div>
 
     );

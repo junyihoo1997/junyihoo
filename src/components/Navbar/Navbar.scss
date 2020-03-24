@@ -1,98 +1,33 @@
+.navbar-body{
+    background: transparent; 
+    position: absolute;
+    width: 100%;
+}
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
-*
-{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+.nav-ul{
+    text-align: right;
 }
-.navbar-body
-{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  overflow: hidden;
+
+
+.nav-ul .nav-li{
+    display:inline-block;
+    list-style-type:none;
+    padding: 20px 20px 10px 0px;
 }
-.nav-ul
-{
-  position: relative;
+
+
+
+.nav-a{
+    color: rgba(255, 255, 255, 0.911);
+    font-weight: 600;
 }
-.nav-ul .nav-li
-{
-  list-style: none;
-  text-align: center;
-}
-.nav-ul .nav-li .nav-a
-{
-  color: #333;
-  text-decoration: none;
-  font-size: 3em;
-  padding: 5px 20px;
-  display: inline-flex;
-  font-weight: 700;
-  transition: 0.5s;
-}
-.nav-ul:hover .nav-li .nav-a
-{
-  color: #0002;
-}
-.nav-ul .nav-li:hover .nav-a
-{
-  color: #000;
-  background: rgba(255,255,255,1);
-}
-.nav-ul .nav-li .nav-a:before
-{
-  content: '';
-  position: absolute;
-  top: 50%;
-  left: 40%;
-  transform: translate(-50%,-50%);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 5em;
-  color: rgba(0,0,0,.1);
-  border-radius: 50%;
-  z-index: -1;
-  opacity: 0;
-  font-weight: 900;
-  text-transform: uppercase;
-  letter-spacing: 500px;
-  transition: letter-spacing 0.5s,left 0.5s;
-}
-.nav-ul .nav-li .nav-a:hover:before
-{
-  content: attr(data-text);
-  opacity: 1;
-  left: 50%;
-  letter-spacing: 10px;
-  width: 1800px;
-  height: 1800px;
-}
-.nav-ul .nav-li:nth-child(6n+1) .nav-a:before
-{
-  background: #81ecec;
-}
-.nav-ul .nav-li:nth-child(6n+2) .nav-a:before
-{
-  background: #ff7675;
-}
-.nav-ul .nav-li:nth-child(6n+3) .nav-a:before
-{
-  background: #55efc4;
-}
-.nav-ul .nav-li:nth-child(6n+4) .nav-a:before
-{
-  background: #a29bfe;
-}
-.nav-ul .nav-li:nth-child(6n+5) .nav-a:before
-{
-  background: #fd79a8;
-}
-.nav-ul .nav-li:nth-child(6n+6) .nav-a:before
-{
-  background: #ffeaa7;
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+    border-width: 0px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background-color: rgba(0,0,0,0.0);
+    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
 }

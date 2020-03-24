@@ -8,42 +8,29 @@ import Experiences from '../../components/Experiences/Experiences'
 import Education from '../../components/Education/Education'
 import Contact from '../../components/Contact/Contact'
 import Footer from '../../components/Footer/Footer'
-import Navbar from '../../components/Navbar/Navbar';
+import Navbar from '../../components/Navbar/Navbar'
+
+// import PreLoading from '../../components/PreLoading/PreLoading'
+
+// Styling import
+import './LandingPage.scss'
+
 
 class LandingPage extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            isNavClicked: false
-        };
-        this.navClicked = this.navClicked.bind(this);
-    }
-    navClicked() {
-        this.setState({
-            isNavClicked: true
-        })
-    }
     render() {
-        if (this.state.isNavClicked === true) {
-            return (
-                <div className="landing-body">
-                    <Navbar />
-                </div>
-            );
-        }
-        else {
-            return (
-                <div className="landing-body">
-                    <Main />
-                    <About />
-                    <Skills />
-                    <Experiences />
-                    <Education />
-                    <Contact />
-                    <Footer />
-                </div>
-            );
-        }
+        return (
+            <div className="landing-body">
+                {/* <PreLoading/> */}
+                <Navbar />
+                <Main />
+                <About />
+                <Skills />
+                <Experiences />
+                <Education />
+                <Contact />
+                <Footer />
+            </div>
+        );
     }
 }
 

@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.scss';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Page import
 import LandingPage from './pages/LandingPage/LandingPage'
