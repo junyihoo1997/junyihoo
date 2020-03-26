@@ -1,27 +1,36 @@
 {
   "files": {
-    "main.css": "/junyihoo/static/css/main.93df8414.chunk.css",
-    "main.js": "/junyihoo/static/js/main.aa4835bf.chunk.js",
-    "main.js.map": "/junyihoo/static/js/main.aa4835bf.chunk.js.map",
+    "main.css": "/junyihoo/static/css/main.92b01a30.chunk.css",
+    "main.js": "/junyihoo/static/js/main.4725e76d.chunk.js",
+    "main.js.map": "/junyihoo/static/js/main.4725e76d.chunk.js.map",
     "runtime-main.js": "/junyihoo/static/js/runtime-main.5e8a1920.js",
     "runtime-main.js.map": "/junyihoo/static/js/runtime-main.5e8a1920.js.map",
     "static/css/2.47e06e2e.chunk.css": "/junyihoo/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.a57968ac.chunk.js": "/junyihoo/static/js/2.a57968ac.chunk.js",
-    "static/js/2.a57968ac.chunk.js.map": "/junyihoo/static/js/2.a57968ac.chunk.js.map",
+    "static/js/2.9280c77a.chunk.js": "/junyihoo/static/js/2.9280c77a.chunk.js",
+    "static/js/2.9280c77a.chunk.js.map": "/junyihoo/static/js/2.9280c77a.chunk.js.map",
     "index.html": "/junyihoo/index.html",
-    "precache-manifest.336842f99807630b965d33b8b07e6cc0.js": "/junyihoo/precache-manifest.336842f99807630b965d33b8b07e6cc0.js",
+    "precache-manifest.89b68249e15f97b5ee7b1198eddff8da.js": "/junyihoo/precache-manifest.89b68249e15f97b5ee7b1198eddff8da.js",
     "service-worker.js": "/junyihoo/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/junyihoo/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.93df8414.chunk.css.map": "/junyihoo/static/css/main.93df8414.chunk.css.map",
-    "static/js/2.a57968ac.chunk.js.LICENSE.txt": "/junyihoo/static/js/2.a57968ac.chunk.js.LICENSE.txt",
+    "static/css/main.92b01a30.chunk.css.map": "/junyihoo/static/css/main.92b01a30.chunk.css.map",
+    "static/js/2.9280c77a.chunk.js.LICENSE.txt": "/junyihoo/static/js/2.9280c77a.chunk.js.LICENSE.txt",
+    "static/media/C.webp": "/junyihoo/static/media/C.abb34da2.webp",
+    "static/media/JunyiPic.jpg": "/junyihoo/static/media/JunyiPic.8576108d.jpg",
     "static/media/LandingPage.scss": "/junyihoo/static/media/LandingImage.316f39ee.jpg",
-    "static/media/Main.scss": "/junyihoo/static/media/LandingImage3.69744708.jfif"
+    "static/media/Main.scss": "/junyihoo/static/media/LandingImage3.69744708.jfif",
+    "static/media/css.png": "/junyihoo/static/media/css.c3ce0c15.png",
+    "static/media/html.png": "/junyihoo/static/media/html.bc18af49.png",
+    "static/media/java.png": "/junyihoo/static/media/java.c748b87e.png",
+    "static/media/javascript.jpg": "/junyihoo/static/media/javascript.fbfee0f7.jpg",
+    "static/media/php.png": "/junyihoo/static/media/php.b0bd1ac0.png",
+    "static/media/python.png": "/junyihoo/static/media/python.2aae2ae0.png",
+    "static/media/reactjs.png": "/junyihoo/static/media/reactjs.6bbb347f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5e8a1920.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.a57968ac.chunk.js",
-    "static/css/main.93df8414.chunk.css",
-    "static/js/main.aa4835bf.chunk.js"
+    "static/js/2.9280c77a.chunk.js",
+    "static/css/main.92b01a30.chunk.css",
+    "static/js/main.4725e76d.chunk.js"
   ]
 }
