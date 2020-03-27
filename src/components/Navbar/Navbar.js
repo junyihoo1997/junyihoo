@@ -29,7 +29,7 @@ function Navbar(props) {
                 <li className="nav-li"><a href='#contact-section' data-text="Contact" className="nav-a">{navContent.contact}</a></li>
             </ul> */}
             <nav class="navbar transparent  navbar-expand-lg ">
-                <a class="navbar-brand" href="#">Navbar</a>
+                <a class="navbar-brand" href="#">HOO JUN YI</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>

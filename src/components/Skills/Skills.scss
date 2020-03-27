@@ -1,5 +1,29 @@
 .skills-body{
     height: 100vh;
-    background-color: #A9C9FF;
-background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+    width: 100%;
+    max-height: 100vh;
+    background-color: rgb(241, 240, 227);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills-title{
+    text-align: center;
+}
+
+.skills-content{
+
+}
+
+.skills-imgBox{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.skills-pic{
+    width: 25%;
+    height: auto;
 }

@@ -11,15 +11,20 @@ function About(props) {
     return (
         <div className='about-body' id='about-section'>
             <div className='about-div'>
-                <div className='about-title'>
-                    <h2>
-                        About Myself
-                    </h2>
-                </div>
-                <div className='about-content container'>
+                {/* <div className='about-title'>
                     <Row>
-                       <Col>I'm a passionate web developer who have strong interest in programming and never stop loving new technology.  I'm a self learn, hardworking and have great desire to learn.</Col>
-                       <Col><Image src={junyiPic} className='about-pic'/></Col> 
+                        <Col sm={12}>
+                            <h2>
+                                About Me
+                            </h2>
+                        </Col>
+                    </Row>
+                </div> */}
+                <div className='about-content '>
+                    <Row>
+                        <Col sm={4}><div className="about-header"><h2> About Me </h2></div><br />I'm a passionate web developer who have strong interest in programming and never stop loving new technology.  I'm a self learn, hardworking and have great desire to learn.</Col>
+                        <Col sm={4}></Col>
+                        <Col sm={4}><div className='about-imgBox'><Image src={junyiPic} className='about-pic' /></div></Col>
                     </Row>
                 </div>
             </div>
