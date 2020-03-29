@@ -35,11 +35,11 @@ function Navbar(props) {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
-                    <li className="nav-li"><a href='#about-section' data-text="About" className="nav-a">{navContent.about}</a></li>
-                <li className="nav-li"><a href='#skills-section' data-text="Skills" className="nav-a">{navContent.skills}</a></li>
-                <li className="nav-li"><a href='#experiences-section' data-text="Experiences" className="nav-a">{navContent.experiences}</a></li>
-                <li className="nav-li"><a href='#education-section' data-text="Education" className="nav-a">{navContent.education}</a></li>
-                <li className="nav-li"><a href='#contact-section' data-text="Contact" className="nav-a">{navContent.contact}</a></li>
+                        <li className="nav-li"><a href='#about-section' data-text="About" className="nav-a">{navContent.about}</a></li>
+                        <li className="nav-li"><a href='#skills-section' data-text="Skills" className="nav-a">{navContent.skills}</a></li>
+                        <li className="nav-li"><a href='#experiences-section' data-text="Experiences" className="nav-a">{navContent.experiences}</a></li>
+                        <li className="nav-li"><a href='#education-section' data-text="Education" className="nav-a">{navContent.education}</a></li>
+                        <li className="nav-li"><a href='#contact-section' data-text="Contact" className="nav-a">{navContent.contact}</a></li>
                         {/* <li class="nav-item active">
                             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                         </li>
