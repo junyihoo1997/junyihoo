@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/junyihoo/static/css/main.d558e7e5.chunk.css",
-    "main.js": "/junyihoo/static/js/main.cdbbf1d7.chunk.js",
-    "main.js.map": "/junyihoo/static/js/main.cdbbf1d7.chunk.js.map",
+    "main.js": "/junyihoo/static/js/main.96680f0a.chunk.js",
+    "main.js.map": "/junyihoo/static/js/main.96680f0a.chunk.js.map",
     "runtime-main.js": "/junyihoo/static/js/runtime-main.5e8a1920.js",
     "runtime-main.js.map": "/junyihoo/static/js/runtime-main.5e8a1920.js.map",
     "static/css/2.47e06e2e.chunk.css": "/junyihoo/static/css/2.47e06e2e.chunk.css",
     "static/js/2.0d598777.chunk.js": "/junyihoo/static/js/2.0d598777.chunk.js",
     "static/js/2.0d598777.chunk.js.map": "/junyihoo/static/js/2.0d598777.chunk.js.map",
     "index.html": "/junyihoo/index.html",
-    "precache-manifest.b56420e8558c5f41774ad8af8a72ea6b.js": "/junyihoo/precache-manifest.b56420e8558c5f41774ad8af8a72ea6b.js",
+    "precache-manifest.e82763f62a8671d3c682ba6fb722a670.js": "/junyihoo/precache-manifest.e82763f62a8671d3c682ba6fb722a670.js",
     "service-worker.js": "/junyihoo/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/junyihoo/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.d558e7e5.chunk.css.map": "/junyihoo/static/css/main.d558e7e5.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.0d598777.chunk.js",
     "static/css/main.d558e7e5.chunk.css",
-    "static/js/main.cdbbf1d7.chunk.js"
+    "static/js/main.96680f0a.chunk.js"
   ]
 }
