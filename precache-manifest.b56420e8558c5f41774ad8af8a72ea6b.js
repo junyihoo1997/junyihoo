@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8da2873c386057e29bcb4d9ce99a64b",
+    "revision": "2393fd08d9fcbf64bc9b584468ca666a",
     "url": "/junyihoo/index.html"
   },
   {
-    "revision": "020f1371e7c822868d6c",
+    "revision": "4ee8f1e5c5b776dc154b",
     "url": "/junyihoo/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "b726271035cfa7567f7b",
-    "url": "/junyihoo/static/css/main.c9317f25.chunk.css"
+    "revision": "389648d3399ba6bb7716",
+    "url": "/junyihoo/static/css/main.d558e7e5.chunk.css"
   },
   {
-    "revision": "020f1371e7c822868d6c",
-    "url": "/junyihoo/static/js/2.e75fcb62.chunk.js"
+    "revision": "4ee8f1e5c5b776dc154b",
+    "url": "/junyihoo/static/js/2.0d598777.chunk.js"
   },
   {
     "revision": "536bd53aa818b482269d1b207ca615bf",
-    "url": "/junyihoo/static/js/2.e75fcb62.chunk.js.LICENSE.txt"
+    "url": "/junyihoo/static/js/2.0d598777.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b726271035cfa7567f7b",
-    "url": "/junyihoo/static/js/main.16a0c574.chunk.js"
+    "revision": "389648d3399ba6bb7716",
+    "url": "/junyihoo/static/js/main.cdbbf1d7.chunk.js"
   },
   {
     "revision": "a27be96f4d325e2c1d2b",
