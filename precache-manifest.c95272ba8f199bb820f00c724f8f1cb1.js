@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc797a0ff4a66b29d1c1271cc1954991",
+    "revision": "42e137393fe052162f2b2336368791ee",
     "url": "/junyihoo/index.html"
   },
   {
-    "revision": "4ee8f1e5c5b776dc154b",
+    "revision": "4e24972bd9e11585647e",
     "url": "/junyihoo/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "b82a04e471cd2eaf6a4b",
-    "url": "/junyihoo/static/css/main.d558e7e5.chunk.css"
+    "revision": "fc3070033f7c48cd18d4",
+    "url": "/junyihoo/static/css/main.e1211e52.chunk.css"
   },
   {
-    "revision": "4ee8f1e5c5b776dc154b",
-    "url": "/junyihoo/static/js/2.0d598777.chunk.js"
+    "revision": "4e24972bd9e11585647e",
+    "url": "/junyihoo/static/js/2.7485b60e.chunk.js"
   },
   {
     "revision": "536bd53aa818b482269d1b207ca615bf",
-    "url": "/junyihoo/static/js/2.0d598777.chunk.js.LICENSE.txt"
+    "url": "/junyihoo/static/js/2.7485b60e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b82a04e471cd2eaf6a4b",
-    "url": "/junyihoo/static/js/main.96680f0a.chunk.js"
+    "revision": "fc3070033f7c48cd18d4",
+    "url": "/junyihoo/static/js/main.f0233345.chunk.js"
   },
   {
     "revision": "a27be96f4d325e2c1d2b",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8576108d7b535522f13f98e4b36ffbb4",
     "url": "/junyihoo/static/media/JunyiPic.8576108d.jpg"
-  },
-  {
-    "revision": "316f39ee8b0b7711886f1c372d3f69e0",
-    "url": "/junyihoo/static/media/LandingImage.316f39ee.jpg"
   },
   {
     "revision": "69744708a923dd64f682c20208e48aa7",
@@ -106,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e36422a66cd09734cfb8acfab344ce09",
     "url": "/junyihoo/static/media/sideproject2.e36422a6.PNG"
+  },
+  {
+    "revision": "9aa967a37a0f906c037db672381db23b",
+    "url": "/junyihoo/static/media/stackoverflow.9aa967a3.png"
   },
   {
     "revision": "2605e19f9ba9f30e2ac1ff10c2ee8a72",

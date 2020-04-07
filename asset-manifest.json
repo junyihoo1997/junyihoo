@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/junyihoo/static/css/main.d558e7e5.chunk.css",
-    "main.js": "/junyihoo/static/js/main.96680f0a.chunk.js",
-    "main.js.map": "/junyihoo/static/js/main.96680f0a.chunk.js.map",
+    "main.css": "/junyihoo/static/css/main.e1211e52.chunk.css",
+    "main.js": "/junyihoo/static/js/main.f0233345.chunk.js",
+    "main.js.map": "/junyihoo/static/js/main.f0233345.chunk.js.map",
     "runtime-main.js": "/junyihoo/static/js/runtime-main.5e8a1920.js",
     "runtime-main.js.map": "/junyihoo/static/js/runtime-main.5e8a1920.js.map",
     "static/css/2.47e06e2e.chunk.css": "/junyihoo/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.0d598777.chunk.js": "/junyihoo/static/js/2.0d598777.chunk.js",
-    "static/js/2.0d598777.chunk.js.map": "/junyihoo/static/js/2.0d598777.chunk.js.map",
+    "static/js/2.7485b60e.chunk.js": "/junyihoo/static/js/2.7485b60e.chunk.js",
+    "static/js/2.7485b60e.chunk.js.map": "/junyihoo/static/js/2.7485b60e.chunk.js.map",
     "index.html": "/junyihoo/index.html",
-    "precache-manifest.e82763f62a8671d3c682ba6fb722a670.js": "/junyihoo/precache-manifest.e82763f62a8671d3c682ba6fb722a670.js",
+    "precache-manifest.c95272ba8f199bb820f00c724f8f1cb1.js": "/junyihoo/precache-manifest.c95272ba8f199bb820f00c724f8f1cb1.js",
     "service-worker.js": "/junyihoo/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/junyihoo/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.d558e7e5.chunk.css.map": "/junyihoo/static/css/main.d558e7e5.chunk.css.map",
-    "static/js/2.0d598777.chunk.js.LICENSE.txt": "/junyihoo/static/js/2.0d598777.chunk.js.LICENSE.txt",
+    "static/css/main.e1211e52.chunk.css.map": "/junyihoo/static/css/main.e1211e52.chunk.css.map",
+    "static/js/2.7485b60e.chunk.js.LICENSE.txt": "/junyihoo/static/js/2.7485b60e.chunk.js.LICENSE.txt",
     "static/media/3spade.PNG": "/junyihoo/static/media/3spade.10da4559.PNG",
     "static/media/C.webp": "/junyihoo/static/media/C.abb34da2.webp",
     "static/media/JunyiPic.jpg": "/junyihoo/static/media/JunyiPic.8576108d.jpg",
-    "static/media/LandingPage.scss": "/junyihoo/static/media/LandingImage.316f39ee.jpg",
     "static/media/Main.scss": "/junyihoo/static/media/LandingImage3.69744708.jfif",
     "static/media/animeForum.PNG": "/junyihoo/static/media/animeForum.131d11f5.PNG",
     "static/media/css.png": "/junyihoo/static/media/css.c3ce0c15.png",
@@ -34,13 +33,14 @@
     "static/media/reactjs.png": "/junyihoo/static/media/reactjs.6bbb347f.png",
     "static/media/sideproject1.PNG": "/junyihoo/static/media/sideproject1.0cf6e681.PNG",
     "static/media/sideproject2.PNG": "/junyihoo/static/media/sideproject2.e36422a6.PNG",
+    "static/media/stackoverflow.png": "/junyihoo/static/media/stackoverflow.9aa967a3.png",
     "static/media/universityTimetableSystem.PNG": "/junyihoo/static/media/universityTimetableSystem.2605e19f.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.5e8a1920.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.0d598777.chunk.js",
-    "static/css/main.d558e7e5.chunk.css",
-    "static/js/main.96680f0a.chunk.js"
+    "static/js/2.7485b60e.chunk.js",
+    "static/css/main.e1211e52.chunk.css",
+    "static/js/main.f0233345.chunk.js"
   ]
 }
