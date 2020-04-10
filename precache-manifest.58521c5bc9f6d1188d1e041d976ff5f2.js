@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42e137393fe052162f2b2336368791ee",
+    "revision": "1e024fa4358141a69a359c9f0b0532c8",
     "url": "/junyihoo/index.html"
   },
   {
-    "revision": "4e24972bd9e11585647e",
+    "revision": "ffc5fb804e5b8059c741",
     "url": "/junyihoo/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "fc3070033f7c48cd18d4",
-    "url": "/junyihoo/static/css/main.e1211e52.chunk.css"
+    "revision": "a68c4178c48df90089c9",
+    "url": "/junyihoo/static/css/main.ff934143.chunk.css"
   },
   {
-    "revision": "4e24972bd9e11585647e",
-    "url": "/junyihoo/static/js/2.7485b60e.chunk.js"
+    "revision": "ffc5fb804e5b8059c741",
+    "url": "/junyihoo/static/js/2.4da2443f.chunk.js"
   },
   {
     "revision": "536bd53aa818b482269d1b207ca615bf",
-    "url": "/junyihoo/static/js/2.7485b60e.chunk.js.LICENSE.txt"
+    "url": "/junyihoo/static/js/2.4da2443f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc3070033f7c48cd18d4",
-    "url": "/junyihoo/static/js/main.f0233345.chunk.js"
+    "revision": "a68c4178c48df90089c9",
+    "url": "/junyihoo/static/js/main.37059d5d.chunk.js"
   },
   {
     "revision": "a27be96f4d325e2c1d2b",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/junyihoo/static/media/C.abb34da2.webp"
   },
   {
-    "revision": "8576108d7b535522f13f98e4b36ffbb4",
-    "url": "/junyihoo/static/media/JunyiPic.8576108d.jpg"
+    "revision": "fc161128acb41abb30bc74d14bc42d8a",
+    "url": "/junyihoo/static/media/HooJunYiCV.fc161128.pdf"
   },
   {
-    "revision": "69744708a923dd64f682c20208e48aa7",
-    "url": "/junyihoo/static/media/LandingImage3.69744708.jfif"
+    "revision": "8576108d7b535522f13f98e4b36ffbb4",
+    "url": "/junyihoo/static/media/JunyiPic.8576108d.jpg"
   },
   {
     "revision": "131d11f5e409a25d726e5ce8100c5ee4",
